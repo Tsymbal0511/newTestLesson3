@@ -35,3 +35,6 @@ html
 [![прикол](https://uprostim.com/wp-content/uploads/2021/03/image001-32.jpg)](https://www.youtube.com/watch?v=PqBT7xpmZlE)
 
 
+## Как добавить списки
+
+## Как добавить цитаты
