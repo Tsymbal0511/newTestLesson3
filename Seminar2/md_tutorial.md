@@ -4,37 +4,28 @@
 
 ## Как добавить исходный код
 
-Чтобы добавить исходный код, необходимо использовать конструкцию следующего вида:
-```
-html
-<table><tr><td style="color:#ff7834">Текст</td></tr></table>
-```
-
-Пример рабочего кода без кавычек:
-<table><tr><td style="color:#FFD700">Текст</td></tr></table>
-
-
 ## Как добавить таблицы
 
 ## Как добавить изображение
 
-**Чтобы добвать изображение в разметку MarkDown, импоьзуйте следующую конструкцию:** 
-```
-![Альтернативный текст](ссылка на изображение)
-```
-
-Пример:
-![Альтернативный текст](https://upload.wikimedia.org/wikipedia/commons/8/80/140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg)
-
-```
-Чтобы добавить картинку-ссылку, необходимо модифицировать блок-схему выше следующим образом:
-[![Альтернативный текст](ссылка на само изображение)](ссылка на изображение или саму страницу, на которую перейдем, если кликнем по первом изображению)
-```
-
-Пример:
-[![прикол](https://uprostim.com/wp-content/uploads/2021/03/image001-32.jpg)](https://www.youtube.com/watch?v=PqBT7xpmZlE)
-
-
 ## Как добавить списки
 
 ## Как добавить цитаты
+
+**Блок цитирования**
+
+Блоки цитирования создаются с помощью символа >:
+
+> This is a blockquote. It is usually rendered indented and with a different background color.
+
+Или более ленивым способом, когда знак `>` ставится
+перед каждым элементом цитаты, будь то абзац, заголовок
+или пустая строка:
+
+> This is a blockquote with two paragraphs. Lorem ipsum
+dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi
+posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+vitae, risus.
+>
